@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rukon-uddin
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently working as a part time freelancer in fiver and upwork as machine learning programmer
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me, rukonuddin122@gmail.com
 
