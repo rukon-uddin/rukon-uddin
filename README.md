@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rukon-uddin
-- 👀 I am actively looking for a full-time/part-time Machine learning/Computer vision job.
+- 👀 A profession Software Engineer (Machine learning/Ai)
 - 🌱 I’m currently working as a part time freelancer in fiver and upwork as machine learning engineer
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 rukonuddin122@gmail.com
+- 📫 [rukonuddin122@gmail.com](https://www.linkedin.com/in/rukonuddin/)
 
 <!---
 rukon-uddin/rukon-uddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
